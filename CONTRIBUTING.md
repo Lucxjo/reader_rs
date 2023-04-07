@@ -1,7 +1,6 @@
 # How to contribute
 
-<!-- TODO: Change <PROJECT_NAME> -->
-Contributions to <PROJECT_NAME> are highly encouraged and desired. Below are some guidelines that will help make the process as smooth as possible.
+Contributions to Reader.rs are highly encouraged and desired. Below are some guidelines that will help make the process as smooth as possible.
 
 ## Getting Started
 
